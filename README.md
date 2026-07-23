@@ -1,7 +1,7 @@
 <div align="center">
 <br/>
 
-$\huge\textbf{\textsf{T\hspace{0.1em}A\hspace{0.1em}R\hspace{0.1em}O\hspace{0.1em}U\hspace{0.1em}S}}\hspace{0.5em}\textsf{\color{#8b8b8b}L\hspace{0.1em}a\hspace{0.1em}b\hspace{0.1em}o\hspace{0.1em}r\hspace{0.1em}a\hspace{0.1em}t\hspace{0.1em}o\hspace{0.1em}r\hspace{0.1em}y}$
+**T&hairsp;A&hairsp;R&hairsp;O&hairsp;U&hairsp;S**&ensp;L&hairsp;a&hairsp;b&hairsp;o&hairsp;r&hairsp;a&hairsp;t&hairsp;o&hairsp;r&hairsp;y
 
 <br/>
 </div>
