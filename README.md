@@ -1,35 +1,7 @@
-<div align=center><h3>
-  프론트엔드 개발자가 되자!
-  </h3>
-  <br/>
-</div>
-  
-<div align=center><h1>🌌 STACKS</h1></div>
+<div align="center">
+<br/>
 
-<div align=center>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  
-  <br>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img src="https://img.shields.io/badge/swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=black">
-  <br>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-  <br>
-  <br>
-  <br>
+$\Large\textsf{\textbf{T\hspace{0.1em}A\hspace{0.1em}R\hspace{0.1em}O\hspace{0.1em}U\hspace{0.1em}S}}\;\,\textsf{\color{#8b8b8b}L\hspace{0.1em}a\hspace{0.1em}b\hspace{0.1em}o\hspace{0.1em}r\hspace{0.1em}a\hspace{0.1em}t\hspace{0.1em}o\hspace{0.1em}r\hspace{0.1em}y}$
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjy0841)](https://solved.ac/yjy0841)
-
+<br/>
 </div>
